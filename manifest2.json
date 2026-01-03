@@ -50,17 +50,18 @@
         },
         {
             "src": "./images/Screenshot2.png",
-            "sizes": "913x706",
+            "sizes": "967x793",
             "type": "image/png",
             "purpose": "any"
         },
         {
             "src": "./images/Screenshot3.png",
-            "sizes": "889x735",
+            "sizes": "967x793",
             "type": "image/png",
             "purpose": "any"
         }
     ]
 
 }
+
 
